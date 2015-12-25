@@ -2,7 +2,7 @@
 	"manifest_version": 2,
 	"name": "Honor Rank for Tribal Wars 2",
 	"description": "This extension shows a rank for donations.",
-	"version": "0.2.1",
+	"version": "0.3",
 	"content_scripts": [
 		{
 			"js": [ "game.min_1c28d5fec7.js", "honorrank.js" ],
